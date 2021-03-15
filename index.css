@@ -1,0 +1,17 @@
+.jumbotron{
+
+    text-align: center;
+    background-color: #5686b7;
+}
+
+.input{
+
+    width: 50%;
+    margin: auto;
+}
+
+.text{
+
+    text-align:center;
+    display: inline-block;
+}
